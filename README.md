@@ -1,5 +1,4 @@
-- Develops in Go, C++, Python, Java and other languages for fun. Currently interested in ios development and game development.
-- Currently, I'm not a programmer, just for fun
+- Now I feel I can have a new life and start all over again.
 
 <!---
 CodeByCyning/CodeByCyning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
